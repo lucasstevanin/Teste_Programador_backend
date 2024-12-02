@@ -1,7 +1,5 @@
 ## Instalação
 
-Após clonar o repositório entre na pasta /backend_comunicados
-
 Para instalar as dependencias execute:
 
 ```bash
